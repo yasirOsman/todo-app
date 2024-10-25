@@ -85,7 +85,7 @@ To set up this project on your local machine, follow these steps:
 
 ## Usage
 
-- Open your web browser and navigate to app url.
+- Open your web browser and navigate to the app url.
 - You can add new tasks using the input field and clicking the "Add Task" button.
 - Mark tasks as completed by checking the checkbox.
 - Delete tasks by clicking the "Delete" button next to the task.
@@ -93,7 +93,7 @@ To set up this project on your local machine, follow these steps:
 ## Project Structure
 
 ```plaintext
-todo-list/
+todo-app/
 ├── app/
 │   ├── Http/
 │   │   ├── Controllers/
